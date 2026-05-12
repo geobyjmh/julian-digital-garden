@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/notes/","dg-note-properties":{}}
 ---
 
-This is a note [[Start here\|Start here]] 
-Hello Evelyn
-jfjfjfjfjsnfinsifns
+- Link: [[Start here\|Start here]]
+
+This is a  notes index
+
+[[Notes/first note\|first note]]
+
