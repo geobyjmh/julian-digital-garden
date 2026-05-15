@@ -6,5 +6,5 @@
 
 This is a  notes index
 
-[[Notes/first note\|first note]]
-
+# A
+[[Apple\|Apple]]
