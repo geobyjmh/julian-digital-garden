@@ -7,4 +7,4 @@
 This is a  notes index
 
 # A
-[[Apple\|Apple]]
+[[Notes/Apple\|Apple]]
