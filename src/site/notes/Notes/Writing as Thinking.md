@@ -33,23 +33,6 @@ Consistent note-taking removes the need to begin from a blank page. Existing not
 
 An index is essential. Without a way to navigate notes, information becomes difficult to retrieve. The index acts as an entry point into the wider network of ideas.
 
-## Linked Ideas
-
-- Writing clarifies thinking
-- Knowledge networks
-- Spaced repetition
-- Evergreen notes
-- Atomic notes
-- Personal knowledge management (PKM)
-
-## Possible Follow-up Notes
-
-- Why writing improves understanding
-- Atomic notes vs long-form notes
-- How to structure a Zettelkasten index
-- Linking ideas without forcing connections
-- Using spaced repetition with notes
-
 ## Source
 
 Video: “How to Take Smart Notes / Zettelkasten” by YouTube
