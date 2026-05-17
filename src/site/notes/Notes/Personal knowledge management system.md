@@ -4,5 +4,5 @@
 
 A personal knowledge management system is a structured way of capturing, organising, linking, and revisiting information to support learning, thinking, and creative work over time.
 
+- [[Notes/Progressive summarisation\|Progressive summarisation]]
 - [[Notes/Writing as Thinking\|Writing as Thinking]]
-- 
