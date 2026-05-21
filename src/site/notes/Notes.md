@@ -11,3 +11,6 @@ This is a  notes index
 
 # P
 * [[Notes/Personal knowledge management system\|Personal knowledge management system]]
+
+# S
+- [[Notes/Strategyzer\|Strategyzer]]

@@ -6,7 +6,7 @@ A personal knowledge management system is a structured way of capturing, organis
 
 - [[Notes/Idea Pollination and Insight Harvesting\|Idea Pollination and Insight Harvesting]]
 - [[Notes/Map of Content\|Map of Content]]
-- [[Memex - what is it\|Memex - what is it]]
+- [[Notes/Memex - what is it\|Memex - what is it]]
 - [[Notes/Progressive summarisation\|Progressive summarisation]]
 - [[Notes/Writing as Thinking\|Writing as Thinking]]
 - [[Notes/Zettlekasten - What is it\|Zettlekasten - What is it]]
