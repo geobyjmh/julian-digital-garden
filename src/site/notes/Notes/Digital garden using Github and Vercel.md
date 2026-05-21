@@ -91,5 +91,3 @@ dg-home: true
 - **Links:** Use [[Note Name\|Note Name]] as usual. The plugin automatically turns these into web links.
 - **The "Hard Work" is gone:** You never have to touch Wix or code again. You just write a note, add dg-publish: true, and click one button.
 - **Private vs Public:** Only notes with that dg-publish tag will ever leave your computer. Everything else stays private.
-
-Does that feel more manageable than the Wix setup you were trying before?
