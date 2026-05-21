@@ -3,6 +3,7 @@
 ---
 
 - Link: [[Start here\|Start here]]
+----
 
 - I’m currently working through a course from [[Notes/Strategyzer\|Strategyzer]] to sharpen my thinking around business models, value propositions, and product strategy.
     
