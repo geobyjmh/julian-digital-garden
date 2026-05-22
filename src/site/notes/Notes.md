@@ -7,7 +7,8 @@
 This is a  notes index
 
 # A
-[[Notes/Apple\|Apple]]
+- [[Notes/About me\|About me]]
+- [[Notes/Apple\|Apple]]
 
 # P
 * [[Notes/Personal knowledge management system\|Personal knowledge management system]]
