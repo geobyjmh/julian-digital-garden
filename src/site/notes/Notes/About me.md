@@ -5,9 +5,13 @@
 - Link: [[Start here\|Start here]]
 - Link: [[Notes\|Notes]]
 
-With over 30 years of experience across a range of engineering sectors, I am a Chartered Engineer (CEng) who has evolved from deep-dive electronic embedded systems and software design into a strategic leader of complex organizational transformations. Currently serving as a Service Line Lead, I hold end-to-end operational and financial accountability for 10 technical teams and approximately 120 personnel. My career is defined by high-impact milestones, including scaling a £25k research task into a sustainable £300k/year agile enterprise product, providing engineering assurance for over 50 concurrent projects, and successfully transitioning my business area into a product-led framework across five major lines.
+Hi, I’m Julian.
 
-Driven by a commitment to continuous innovation, I complement my foundational expertise in analogue, digital, and embedded systems (SDR, FPGA, VHDL) with recent, rigorous self-directed study in Artificial Intelligence and machine learning. Beyond technical delivery, my legacy is rooted in workforce development and culture. As a former Head of Profession, I authored the DDAT skills frameworks for Electronics and Data Science to improve retention, established a successful engineering technical degree apprenticeship programme, and have mentored more than 30 engineers toward professional registration.
+I am an engineer, manager, and leader who enjoys learning, exploring ideas, and understanding how things connect together. Over the years I have worked across electronics design, embedded software, FPGA development, systems engineering, project management, and programme management. Alongside engineering, I am also deeply interested in psychology, philosophy, personal development, learning systems, and curiosity-driven exploration.
+
+Around 2024, while researching knowledge management systems such as Zettelkasten and “digital brains”, I discovered the idea of a digital garden. Although I had already developed my own private system for managing knowledge, the idea of publicly sharing learning and evolving ideas appealed to me. This site is an experiment in doing exactly that.
+
+I want this space to feel unfinished in the best possible way, organic, evolving, and open to change as ideas grow and connect over time.
 
 # Contact
 Julian - https://www.linkedin.com/in/julian-177594182/
