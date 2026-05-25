@@ -14,4 +14,4 @@ Around 2024, while researching knowledge management systems such as Zettelkasten
 I want this space to feel unfinished in the best possible way, organic, evolving, and open to change as ideas grow and connect over time.
 
 # Contact
-Julian - https://www.linkedin.com/in/julian-177594182/
+[[Notes/About me\|About me]] | [LinkedIn](https://www.linkedin.com/in/julian-177594182/) | [IET EngX](https://engx.theiet.org/members/97e113289f02bfb1d4484c7353518e95)

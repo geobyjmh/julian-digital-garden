@@ -17,7 +17,9 @@ In a normal garden, you plant seeds and watch them grow into flowers. In a [[Not
 
 It’s a place where your thoughts can stay messy while they grow, helping your ideas and curiosity cultivate!
 
-[[Notes/About me\|About me]]
+# Contact
+[[Notes/About me\|About me]] | [LinkedIn](https://www.linkedin.com/in/julian-177594182/) | [IET EngX](https://engx.theiet.org/members/97e113289f02bfb1d4484c7353518e95)
+
 
 
 
