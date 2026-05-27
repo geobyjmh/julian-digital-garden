@@ -3,8 +3,6 @@
 ---
 
 - Link: [[Notes/Strategyzer\|Strategyzer]]
-# Card 2 — Hypotheses Make Assumptions Explicit
-
 # Core Idea
 
 A hypothesis is an explicit statement describing something that must be true for a business idea to succeed.
