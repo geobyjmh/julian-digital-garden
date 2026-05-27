@@ -15,3 +15,4 @@ Strategyzer is a globally recognized innovation and business strategy company th
 	- [[Notes/Idea 04 - Learning Comes From Synthesising Evidence\|Idea 04 - Learning Comes From Synthesising Evidence]]
 	- [[Notes/Idea 05 - Progress Is Measured by Risk Reduction\|Idea 05 - Progress Is Measured by Risk Reduction]]
 	- [[Notes/Idea 06 - Every Experiment Must Lead to Action\|Idea 06 - Every Experiment Must Lead to Action]]
+	- [[Notes/Learning Cards vs Test Cards\|Learning Cards vs Test Cards]]
