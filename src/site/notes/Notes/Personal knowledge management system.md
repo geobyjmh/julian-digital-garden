@@ -7,7 +7,6 @@
 A personal knowledge management system is a structured way of capturing, organising, linking, and revisiting information to support learning, thinking, and creative work over time.
 
 - [[Notes/Digital Garden\|Digital Garden]] 
-	- [[Notes/Digital garden using Github and Vercel\|Digital garden using Github and Vercel]]
 - [[Notes/Idea Pollination and Insight Harvesting\|Idea Pollination and Insight Harvesting]]
 - [[Notes/Map of Content\|Map of Content]]
 - [[Notes/Memex - what is it\|Memex - what is it]]

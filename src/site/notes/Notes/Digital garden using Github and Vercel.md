@@ -3,7 +3,6 @@
 ---
 
 
-- Link: [[Notes/Personal knowledge management system\|Personal knowledge management system]]
 - Link: [[Notes/Digital Garden\|Digital Garden]]
 
 This site works by connecting your Obsidian notes to a publishing system called a digital garden. When you write notes in Obsidian, they stay private unless you explicitly mark them for publishing using a special setting (`dg-publish: true`). Once published, those selected notes are sent to GitHub, which acts as a storage space for your site’s content. From there, Vercel automatically detects changes in the GitHub repository and rebuilds your website so it stays up to date. The result is a live website that displays your chosen notes in a connected, wiki-like format, with features like backlinks, search, and graph views, while everything else in your Obsidian vault remains private and under your control.
