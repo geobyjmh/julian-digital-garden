@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/","dg-note-properties":{}}
 ---
 
+Last Updated: 29/05/26
+
 - Link: [[Start here\|Start here]]
 
 This is a  notes index

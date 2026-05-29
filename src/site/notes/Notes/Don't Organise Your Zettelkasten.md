@@ -9,3 +9,5 @@ A Zettelkasten works best when connections between notes are allowed to grow org
 
 # source
 [DON'T organize your zettelkasten](https://youtu.be/GUdBI1JSZKA?si=wnZaL_26BgJ9ELna) 
+
+Last Updated: 29/05/26

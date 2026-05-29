@@ -33,3 +33,5 @@ Move from high uncertainty to lower uncertainty by systematically testing the mo
 # Key Insight
 
 Progress is measured by reducing risk, not by completing tasks or building features.
+
+Last Updated: 29/05/26

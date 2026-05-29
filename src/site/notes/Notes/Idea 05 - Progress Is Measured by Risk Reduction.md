@@ -35,3 +35,5 @@ Measures progress across:
 # Key Insight
 
 Learning faster is more valuable than building faster.
+
+Last Updated: 29/05/26

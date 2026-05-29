@@ -15,3 +15,5 @@ I want this space to feel unfinished in the best possible way, organic, evolving
 
 # Contact
 | [[Notes/About me\|About me]] | [LinkedIn](https://www.linkedin.com/in/julian-177594182/) | [IET EngX](https://engx.theiet.org/members/97e113289f02bfb1d4484c7353518e95) | [Blogger](https://julian20990987.blogspot.com/) |
+
+Last Updated: 29/05/26

@@ -37,3 +37,6 @@ An index is essential. Without a way to navigate notes, information becomes diff
 
 Video: “How to Take Smart Notes / Zettelkasten” by YouTube
 [https://youtu.be/wMOACjJzfgM](https://youtu.be/wMOACjJzfgM) 
+
+
+Last Updated: 29/05/26

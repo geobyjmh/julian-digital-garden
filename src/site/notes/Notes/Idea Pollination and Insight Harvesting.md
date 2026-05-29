@@ -13,3 +13,5 @@ This could represent the act of transferring concepts or inspiration from your t
 # Insight Harvesting
 
 Drawing from the metaphor of a Digital Garden, this term suggests gathering ripe ideas from the "garden" of your notes and texts. – This would involve writing papers, blogs, and other written material.
+
+Last Updated: 29/05/26

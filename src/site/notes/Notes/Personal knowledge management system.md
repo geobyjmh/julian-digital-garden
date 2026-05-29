@@ -14,3 +14,6 @@ A personal knowledge management system is a structured way of capturing, organis
 - [[Notes/Writing as Thinking\|Writing as Thinking]]
 - [[Notes/Zettlekasten - What is it\|Zettlekasten - What is it]]
 	- [[Notes/Don't Organise Your Zettelkasten\|Don't Organise Your Zettelkasten]]
+
+
+Last Updated: 29/05/26
