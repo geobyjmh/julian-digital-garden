@@ -5,7 +5,7 @@
 -  Link: [[Start here\|Start here]]
 ----
 
-# Q2-2026
+# Q2-2026 Goals
 - I’m currently working through a course from [[Notes/Strategyzer\|Strategyzer]] to sharpen my thinking around business models, value propositions, and product strategy.
 
 
