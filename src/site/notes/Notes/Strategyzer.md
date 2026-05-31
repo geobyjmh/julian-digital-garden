@@ -10,6 +10,7 @@ Strategyzer is a globally recognized innovation and business strategy company th
 
 ## Business Model Canvas
 * [[Notes/Business Model Canvas Overview\|Business Model Canvas Overview]]
+* [[Notes/Strategyzer Business Model Canvas\|Strategyzer Business Model Canvas]]
 ## Mastering Business Testing
 - [[Notes/Mastering Business Testing\|Mastering Business Testing]]
 - [[Notes/Learning Cards vs Test Cards\|Learning Cards vs Test Cards]]
