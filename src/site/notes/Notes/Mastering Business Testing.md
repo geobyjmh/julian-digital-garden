@@ -42,7 +42,6 @@ Progress is measured by reducing risk, not by completing tasks or building featu
 - [[Notes/Idea 04 - Learning Comes From Synthesising Evidence\|Idea 04 - Learning Comes From Synthesising Evidence]]
 - [[Notes/Idea 05 - Progress Is Measured by Risk Reduction\|Idea 05 - Progress Is Measured by Risk Reduction]]
 - [[Notes/Idea 06 - Every Experiment Must Lead to Action\|Idea 06 - Every Experiment Must Lead to Action]]
-- 
 # Reference
 Strategyzer (2026) _Strategyzer | Mastering Business Testing_. Available at: [https://www.strategyzer.com/](https://www.strategyzer.com/) (Accessed: 28 May 2026).
 
