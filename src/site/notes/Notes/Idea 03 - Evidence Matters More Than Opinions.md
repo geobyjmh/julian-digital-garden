@@ -34,6 +34,10 @@ Business testing relies on evidence, not internal belief or customer opinions al
 
 Behavioural evidence is the strongest form of validation.
 
+# Links
+- [[Notes/Strategyzer\|Strategyzer]]
+- [[Notes/Mastering Business Testing\|Mastering Business Testing]]
+- [[Notes/Idea 04 - Learning Comes From Synthesising Evidence\|Idea 04 - Learning Comes From Synthesising Evidence]]
 # Reference
 Strategyzer (2026) _Strategyzer | Mastering Business Testing_. Available at: [https://www.strategyzer.com/](https://www.strategyzer.com/) (Accessed: 28 May 2026).
 

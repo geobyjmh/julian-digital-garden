@@ -30,6 +30,10 @@ A method for grouping qualitative observations into themes.
 
 Patterns across experiments matter more than isolated observations.
 
+# Links
+- [[Notes/Strategyzer\|Strategyzer]]
+- [[Notes/Mastering Business Testing\|Mastering Business Testing]]
+- [[Notes/Idea 05 - Progress Is Measured by Risk Reduction\|Idea 05 - Progress Is Measured by Risk Reduction]]
 # Reference
 Strategyzer (2026) _Strategyzer | Mastering Business Testing_. Available at: [https://www.strategyzer.com/](https://www.strategyzer.com/) (Accessed: 28 May 2026).
 

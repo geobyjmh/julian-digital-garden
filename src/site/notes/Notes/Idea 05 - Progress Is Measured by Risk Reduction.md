@@ -36,6 +36,10 @@ Measures progress across:
 
 Learning faster is more valuable than building faster.
 
+# Links
+- [[Notes/Strategyzer\|Strategyzer]]
+- [[Notes/Mastering Business Testing\|Mastering Business Testing]]
+- [[Notes/Idea 06 - Every Experiment Must Lead to Action\|Idea 06 - Every Experiment Must Lead to Action]]
 # Reference
 Strategyzer (2026) _Strategyzer | Mastering Business Testing_. Available at: [https://www.strategyzer.com/](https://www.strategyzer.com/) (Accessed: 28 May 2026).
 

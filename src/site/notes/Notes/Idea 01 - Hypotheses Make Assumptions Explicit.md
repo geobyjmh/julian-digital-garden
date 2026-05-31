@@ -35,6 +35,10 @@ Strong:
 
 Unstated assumptions create hidden risk.
 
+# Links
+- [[Notes/Strategyzer\|Strategyzer]]
+- [[Notes/Mastering Business Testing\|Mastering Business Testing]]
+- [[Notes/Idea 02 - Test the Riskiest Assumptions First\|Idea 02 - Test the Riskiest Assumptions First]]
 # Reference
 Strategyzer (2026) _Strategyzer | Mastering Business Testing_. Available at: [https://www.strategyzer.com/](https://www.strategyzer.com/) (Accessed: 28 May 2026).
 

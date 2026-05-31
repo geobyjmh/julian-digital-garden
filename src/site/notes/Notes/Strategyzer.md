@@ -12,14 +12,6 @@ Strategyzer is a globally recognized innovation and business strategy company th
 * [[Notes/Business Model Canvas Overview\|Business Model Canvas Overview]]
 ## Mastering Business Testing
 - [[Notes/Mastering Business Testing\|Mastering Business Testing]]
-	- [[Notes/Idea 01 - Hypotheses Make Assumptions Explicit\|Idea 01 - Hypotheses Make Assumptions Explicit]]
-	- [[Notes/Idea 02 - Test the Riskiest Assumptions First\|Idea 02 - Test the Riskiest Assumptions First]]
-	- [[Notes/Idea 03 - Evidence Matters More Than Opinions\|Idea 03 - Evidence Matters More Than Opinions]]
-	- [[Notes/Idea 04 - Learning Comes From Synthesising Evidence\|Idea 04 - Learning Comes From Synthesising Evidence]]
-	- [[Notes/Idea 05 - Progress Is Measured by Risk Reduction\|Idea 05 - Progress Is Measured by Risk Reduction]]
-	- [[Notes/Idea 06 - Every Experiment Must Lead to Action\|Idea 06 - Every Experiment Must Lead to Action]]
-	- [[Notes/Learning Cards vs Test Cards\|Learning Cards vs Test Cards]]
-
-
+- [[Notes/Learning Cards vs Test Cards\|Learning Cards vs Test Cards]]
 
 Last Updated: 31/05/26

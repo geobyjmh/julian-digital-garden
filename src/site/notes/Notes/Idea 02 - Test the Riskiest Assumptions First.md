@@ -33,6 +33,10 @@ The highest priority assumptions are:
 
 Testing low-risk assumptions first creates false progress.
 
+# Links
+- [[Notes/Strategyzer\|Strategyzer]]
+- [[Notes/Mastering Business Testing\|Mastering Business Testing]]
+- [[Notes/Idea 03 - Evidence Matters More Than Opinions\|Idea 03 - Evidence Matters More Than Opinions]]
 # Reference
 Strategyzer (2026) _Strategyzer | Mastering Business Testing_. Available at: [https://www.strategyzer.com/](https://www.strategyzer.com/) (Accessed: 28 May 2026).
 
