@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/idea-01-hypotheses-make-assumptions-explicit/","dg-note-properties":{}}
 ---
 
-- Link: [[Notes/Strategyzer\|Strategyzer]]
 # Core Idea
 
 A hypothesis is an explicit statement describing something that must be true for a business idea to succeed.
@@ -36,7 +35,6 @@ Strong:
 Unstated assumptions create hidden risk.
 
 # Links
-- [[Notes/Strategyzer\|Strategyzer]]
 - [[Notes/Mastering Business Testing\|Mastering Business Testing]]
 - [[Notes/Idea 02 - Test the Riskiest Assumptions First\|Idea 02 - Test the Riskiest Assumptions First]]
 # Reference

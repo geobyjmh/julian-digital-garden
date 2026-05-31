@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/idea-04-learning-comes-from-synthesising-evidence/","dg-note-properties":{}}
 ---
 
-- Link: [[Notes/Strategyzer\|Strategyzer]]
-
 # Core Idea
 
 Evidence alone does not create learning; insight comes from analysing and synthesising patterns.
@@ -31,7 +29,6 @@ A method for grouping qualitative observations into themes.
 Patterns across experiments matter more than isolated observations.
 
 # Links
-- [[Notes/Strategyzer\|Strategyzer]]
 - [[Notes/Mastering Business Testing\|Mastering Business Testing]]
 - [[Notes/Idea 05 - Progress Is Measured by Risk Reduction\|Idea 05 - Progress Is Measured by Risk Reduction]]
 # Reference

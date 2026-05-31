@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/idea-02-test-the-riskiest-assumptions-first/","dg-note-properties":{}}
 ---
 
-- Link: [[Notes/Strategyzer\|Strategyzer]]
-
 # Core Idea
 
 Not all hypotheses are equally important. The most dangerous assumptions should be tested first.
@@ -34,7 +32,6 @@ The highest priority assumptions are:
 Testing low-risk assumptions first creates false progress.
 
 # Links
-- [[Notes/Strategyzer\|Strategyzer]]
 - [[Notes/Mastering Business Testing\|Mastering Business Testing]]
 - [[Notes/Idea 03 - Evidence Matters More Than Opinions\|Idea 03 - Evidence Matters More Than Opinions]]
 # Reference

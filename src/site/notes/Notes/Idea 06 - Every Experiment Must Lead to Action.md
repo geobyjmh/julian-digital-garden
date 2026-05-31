@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/idea-06-every-experiment-must-lead-to-action/","dg-note-properties":{}}
 ---
 
-- Link: [[Notes/Strategyzer\|Strategyzer]]
-# Core Idea
-
 The purpose of testing is not running experiments — it is making decisions.
 
 # Four Possible Actions
@@ -30,7 +27,6 @@ Weak evidence requires more testing before major decisions are made.
 A business testing process without action becomes research theatre.
 
 # Links
-- [[Notes/Strategyzer\|Strategyzer]]
 - [[Notes/Mastering Business Testing\|Mastering Business Testing]]
 - [[Notes/Idea 01 - Hypotheses Make Assumptions Explicit\|Idea 01 - Hypotheses Make Assumptions Explicit]]
 # Reference

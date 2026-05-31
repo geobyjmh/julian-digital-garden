@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/idea-05-progress-is-measured-by-risk-reduction/","dg-note-properties":{}}
 ---
 
-- Link: [[Notes/Strategyzer\|Strategyzer]]
-
 # Core Idea
 
 In innovation work, progress is not measured by activity or output, but by reduced uncertainty.
@@ -37,7 +35,6 @@ Measures progress across:
 Learning faster is more valuable than building faster.
 
 # Links
-- [[Notes/Strategyzer\|Strategyzer]]
 - [[Notes/Mastering Business Testing\|Mastering Business Testing]]
 - [[Notes/Idea 06 - Every Experiment Must Lead to Action\|Idea 06 - Every Experiment Must Lead to Action]]
 # Reference
