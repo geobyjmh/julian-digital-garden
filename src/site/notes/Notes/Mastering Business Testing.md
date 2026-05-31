@@ -34,4 +34,7 @@ Move from high uncertainty to lower uncertainty by systematically testing the mo
 
 Progress is measured by reducing risk, not by completing tasks or building features.
 
-Last Updated: 29/05/26
+# Reference
+Strategyzer (2026) _Strategyzer | Mastering Business Testing_. Available at: [https://www.strategyzer.com/](https://www.strategyzer.com/) (Accessed: 28 May 2026).
+
+Last Updated: 31/05/26

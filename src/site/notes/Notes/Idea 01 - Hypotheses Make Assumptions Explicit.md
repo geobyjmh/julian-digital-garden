@@ -35,4 +35,7 @@ Strong:
 
 Unstated assumptions create hidden risk.
 
-Last Updated: 29/05/26
+# Reference
+Strategyzer (2026) _Strategyzer | Mastering Business Testing_. Available at: [https://www.strategyzer.com/](https://www.strategyzer.com/) (Accessed: 28 May 2026).
+
+Last Updated: 31/05/26
