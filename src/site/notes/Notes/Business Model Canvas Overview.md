@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/notes/business-model-canvas-overview/","dg-note-properties":{}}
 ---
 
+[Business Model Canvas Explained]([(13129) Business Model Canvas Explained - YouTube](https://www.youtube.com/watch?v=QoAOzMTLP5s))
 
 **Concept:** The Business Model Canvas (BMC)
 
-# **Summary:**  
 The Business Model Canvas is a visual framework for describing, discussing, designing, and reinventing business models. Rather than treating a business as a list of disconnected elements, it maps nine interdependent building blocks on a single page, showing how value is created, delivered, and captured.
 
 # **Key Insight:**  
