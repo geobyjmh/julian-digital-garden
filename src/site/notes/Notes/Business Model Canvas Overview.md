@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/business-model-canvas-overview/","dg-note-properties":{}}
 ---
 
-[Business Model Canvas Explained]([(13129) Business Model Canvas Explained - YouTube](https://www.youtube.com/watch?v=QoAOzMTLP5s))
+![]()
 
 **Concept:** The Business Model Canvas (BMC)
 
