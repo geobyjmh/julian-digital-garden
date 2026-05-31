@@ -51,3 +51,8 @@ Companies cultivate partnerships for many reasons, and partnerships are becoming
 
 ### 9. Cost Structure
 This describes all costs incurred to operate a business model. Creating and delivering value, maintaining Customer Relationships, and generating revenue all incur costs. These can be calculated relatively easily after defining Key Resources, Key Activities, and Key Partnerships.
+
+# Reference
+Strategyzer (2011) _Business Model Canvas Explained_. Available at: [http://www.youtube.com/watch?v=QoAOzMTLP5s](http://www.youtube.com/watch?v=QoAOzMTLP5s) (Accessed: 31 May 2026).
+
+Last Updated: 31/05/26
