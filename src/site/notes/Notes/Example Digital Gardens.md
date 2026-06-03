@@ -7,4 +7,6 @@
 A curated showcase of the best public sites built with [Obsidian](https://obsidian.md/). Browse community-picked Digital Gardens, Quartz sites, Obsidian Publish examples, and downloadable vault templates — and find inspiration for your own setup.
 [Obsidian Garden Gallery — Sites Built with Obsidian](https://vaults.obsidian-community.com/)
 
-Last Updated: 29/05/26
+This garden listed externally: [Julian's Digital Garden — Digital Gardens | Obsidian Garden Gallery](https://vaults.obsidian-community.com/site/julian-s-digital-garden) 
+
+Last Updated: 03/06/26
