@@ -17,7 +17,7 @@ Applying Strategyzer’s framework to Sir Clive Sinclair’s inventions reveals 
 x
 
 **LinkedIn**
-x
+https://www.linkedin.com/pulse/zx-spectrum-sinclair-c5-strategyzer-perspective-success-julian--nudfe
 
 
 Last Updated: 03/06/26
