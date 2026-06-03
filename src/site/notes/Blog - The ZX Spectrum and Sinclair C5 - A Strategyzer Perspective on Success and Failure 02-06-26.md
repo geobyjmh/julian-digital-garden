@@ -14,7 +14,7 @@ Applying Strategyzer’s framework to Sir Clive Sinclair’s inventions reveals 
 [Julian: The ZX Spectrum and Sinclair C5: A Strategyzer Perspective on Success and Failure](https://julian20990987.blogspot.com/2026/06/the-zx-spectrum-and-sinclair-c5.html)
 
 **IET**
-x
+[IET EngX](https://engx.theiet.org/b/blogs/posts/the-zx-spectrum-and-sinclair-c5-a-strategyzer-perspective-on-success-and-failure)
 
 **LinkedIn**
 https://www.linkedin.com/pulse/zx-spectrum-sinclair-c5-strategyzer-perspective-success-julian--nudfe
