@@ -14,5 +14,6 @@ Strategyzer is a globally recognized innovation and business strategy company th
 ## Mastering Business Testing
 - [[Notes/Mastering Business Testing\|Mastering Business Testing]]
 - [[Notes/Learning Cards vs Test Cards\|Learning Cards vs Test Cards]]
+- [[Blog - The ZX Spectrum and Sinclair C5 - A Strategyzer Perspective on Success and Failure 02-06-26\|Blog - The ZX Spectrum and Sinclair C5 - A Strategyzer Perspective on Success and Failure 02-06-26]]
 
-Last Updated: 31/05/26
+Last Updated: 03/06/26
