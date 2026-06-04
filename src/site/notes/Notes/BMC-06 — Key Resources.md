@@ -20,7 +20,7 @@ A business model depends on a small set of critical assets that cannot easily be
 
 **Links:**
 
-- [[Notes/Business Model Canvas Overview\|Business Model Canvas Overview]]
+- [[Notes/Business Model Canvas\|Business Model Canvas]]
 - [[Notes/BMC-07 — Key Activities\|BMC-07 — Key Activities]]
 # Reference
 Strategyzer (2011) _Business Model Canvas Explained_. Available at: [http://www.youtube.com/watch?v=QoAOzMTLP5s](http://www.youtube.com/watch?v=QoAOzMTLP5s) (Accessed: 31 May 2026).

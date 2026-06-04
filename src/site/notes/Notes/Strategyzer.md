@@ -9,11 +9,14 @@ Strategyzer is a globally recognized innovation and business strategy company th
 # Training Notes
 
 ## Business Model Canvas
-* [[Notes/Business Model Canvas Overview\|Business Model Canvas Overview]]
+* [[Notes/Business Model Canvas\|Business Model Canvas]]
 * [[Notes/Strategyzer Business Model Canvas\|Strategyzer Business Model Canvas]]
+
+# Value Proposition Canvas
+- [[Notes/Value Proposition Canvas\|Value Proposition Canvas]]
 ## Mastering Business Testing
 - [[Notes/Mastering Business Testing\|Mastering Business Testing]]
 - [[Notes/Learning Cards vs Test Cards\|Learning Cards vs Test Cards]]
 - [[Notes/Blog - The ZX Spectrum and Sinclair C5 - A Strategyzer Perspective on Success and Failure 02-06-26\|Blog - The ZX Spectrum and Sinclair C5 - A Strategyzer Perspective on Success and Failure 02-06-26]]
 
-Last Updated: 03/06/26
+Last Updated: 04/06/26

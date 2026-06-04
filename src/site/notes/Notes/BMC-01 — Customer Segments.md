@@ -19,7 +19,7 @@ A business does not serve "everyone." Defining customer segments clarifies who t
 
 **Links:**
 
-- [[Notes/Business Model Canvas Overview\|Business Model Canvas Overview]]
+- [[Notes/Business Model Canvas\|Business Model Canvas]]
 - [[Notes/BMC-02 — Value Propositions\|BMC-02 — Value Propositions]]
 
 # Reference

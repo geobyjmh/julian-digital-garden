@@ -20,7 +20,7 @@ A great product can fail if customers cannot discover, evaluate, purchase, or re
 
 **Links:**
 
-- [[Notes/Business Model Canvas Overview\|Business Model Canvas Overview]]
+- [[Notes/Business Model Canvas\|Business Model Canvas]]
 - [[Notes/BMC-04 — Customer Relationships\|BMC-04 — Customer Relationships]]
 
 # Reference

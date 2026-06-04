@@ -19,7 +19,7 @@ Different business models require different relationship types, ranging from sel
 
 **Links:**
 
-- [[Notes/Business Model Canvas Overview\|Business Model Canvas Overview]]
+- [[Notes/Business Model Canvas\|Business Model Canvas]]
 - [[Notes/BMC-05 — Revenue Streams\|BMC-05 — Revenue Streams]]
 
 # Reference
