@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/business-model-canvas/","dg-note-properties":{}}
 ---
 
+- Link [[Notes/Strategyzer\|Strategyzer]]
+
 ![Pasted image 20260604062234.png](/img/user/Images/Pasted%20image%2020260604062234.png)----
 
 <div class="youtube-embed"><iframe src="https://www.youtube.com/embed/QoAOzMTLP5s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
