@@ -5,7 +5,7 @@
 
 - Link [[Notes/Strategyzer\|Strategyzer]]
 
-![Pasted image 20260604061020.png](/img/user/Pasted%20image%2020260604061020.png)
+![Pasted image 20260604061020.png](/img/user/Images/Pasted%20image%2020260604061020.png)
 
 x
 
