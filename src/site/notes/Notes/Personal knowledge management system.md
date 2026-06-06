@@ -20,4 +20,4 @@ A personal knowledge management system is a structured way of capturing, organis
 - Building a second brain by Tiago Forte
 - How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers by Sönke Ahrens
 
-Last Updated: 29/05/26
+Last Updated: 06/06/26
