@@ -15,5 +15,9 @@ A personal knowledge management system is a structured way of capturing, organis
 - [[Notes/Zettlekasten - What is it\|Zettlekasten - What is it]]
 	- [[Notes/Don't Organise Your Zettelkasten\|Don't Organise Your Zettelkasten]]
 
+# Books 
+- Writing to learn by William Zinsser
+- Building a second brain by Tiago Forte
+- How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers by Sönke Ahrens
 
 Last Updated: 29/05/26
