@@ -19,6 +19,6 @@ Instead of spending time dragging shapes, drawing lines, and manually aligning l
     
 - **Diagrams (Python):** A developer-focused programming framework that lets you map out live cloud architecture systems (like AWS, Azure, Google Cloud, and Kubernetes) using native object loops directly inside Python scripts.
     
-- **Graphviz (DOT):** The foundation framework of the entire DaC category. It uses a mathematical layout script language to automatically map complex data networks and massive collections of interconnected informational nodes.
+- **[[Notes/Graphviz (DOT)\|Graphviz (DOT)]]:** The foundation framework of the entire DaC category. It uses a mathematical layout script language to automatically map complex data networks and massive collections of interconnected informational nodes.
 
 Last Updated: 07/06/26
