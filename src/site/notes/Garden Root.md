@@ -10,7 +10,7 @@ Follow the pathways between ideas. This [[Notes/Map of Content (MOC)\|Map of Con
 - [[Notes/About me\|About me]]
 - [[Notes/Apple\|Apple]]
 # B
-* [[Blogs Orchard\|Blogs Orchard]]
+* [[Blogs (Orchard)\|Blogs (Orchard)]]
 
 # D
 - [[Notes/Diagrams-as-Code (DaC)\|Diagrams-as-Code (DaC)]]
@@ -20,7 +20,7 @@ Follow the pathways between ideas. This [[Notes/Map of Content (MOC)\|Map of Con
 
 # P
 * [[Notes/Personal knowledge management system\|Personal knowledge management system]]
-* [[Projects\|Projects]]
+* [[Projects (Garden Beds)\|Projects (Garden Beds)]]
 # S
 - [[Notes/Strategyzer\|Strategyzer]]
 - [[Start here\|Start here]]

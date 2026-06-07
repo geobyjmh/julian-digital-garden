@@ -6,8 +6,8 @@
 
 - **[[Greenhouse\|Greenhouse]]**: What I’m currently focused on
 - **[[Garden Root\|Garden Root]]**: Evolving ideas and reflections
-- **[[Projects\|Projects]]**: Experiments and practical work
-- **[[Blogs Orchard\|Blogs Orchard]]**: Longer-form and polished writing 
+- **[[Projects (Garden Beds)\|Projects (Garden Beds)]]**: Experiments and practical work
+- **[[Blogs (Orchard)\|Blogs (Orchard)]]**: Longer-form and polished writing 
 
 # What is a digital garden?
 
