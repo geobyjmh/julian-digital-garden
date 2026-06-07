@@ -20,6 +20,7 @@ Follow the pathways between ideas. This [[Notes/Map of Content (MOC)\|Map of Con
 
 # P
 * [[Notes/Personal knowledge management system\|Personal knowledge management system]]
+* [[Notes/Personal productivity\|Personal productivity]]
 * [[Projects (Garden Beds)\|Projects (Garden Beds)]]
 # S
 - [[Notes/Strategyzer\|Strategyzer]]
