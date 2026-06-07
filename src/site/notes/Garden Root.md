@@ -10,13 +10,14 @@ Follow the pathways between ideas. This [[Notes/Map of Content (MOC)\|Map of Con
 - [[Notes/About me\|About me]]
 - [[Notes/Apple\|Apple]]
 # B
-* [[Blogs\|Blogs]]
+* [[Blogs Orchard\|Blogs Orchard]]
 
 # D
 - [[Notes/Diagrams-as-Code (DaC)\|Diagrams-as-Code (DaC)]]
-# N
-- [[Garden Root\|Garden Root]]
-- [[Now\|Now]]
+# G
+- [[Garden Root\|Garden Root]] - This page! Evolving ideas and reflections
+- [[Greenhouse\|Greenhouse]] - What I’m currently focused on.
+
 # P
 * [[Notes/Personal knowledge management system\|Personal knowledge management system]]
 * [[Projects\|Projects]]

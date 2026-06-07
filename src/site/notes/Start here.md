@@ -4,10 +4,10 @@
 
 # Julian's Digital Garden
 
-- **[[Now\|Now]]**: What I’m currently focused on
+- **[[Greenhouse\|Greenhouse]]**: What I’m currently focused on
 - **[[Garden Root\|Garden Root]]**: Evolving ideas and reflections
 - **[[Projects\|Projects]]**: Experiments and practical work
-- **[[Blogs\|Blogs]]**: Longer-form and polished writing 
+- **[[Blogs Orchard\|Blogs Orchard]]**: Longer-form and polished writing 
 
 # What is a digital garden?
 
