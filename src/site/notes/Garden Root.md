@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/garden-root/","dg-note-properties":{}}
 ---
 
-Last Updated: 29/05/26
-
 - Link: [[Start here\|Start here]]
 
 Follow the pathways between ideas. This [[Notes/Map of Content (MOC)\|Map of Content (MOC)]] serves as a living index to the most important notes and connections in this [[Notes/Digital Garden\|Digital Garden]].
