@@ -6,7 +6,7 @@ Last Updated: 29/05/26
 
 - Link: [[Start here\|Start here]]
 
-This is a  notes index
+Follow the pathways between ideas. This [[Notes/Map of Content\|Map of Content]] serves as a living index to the most important notes and connections in the garden.
 
 # A
 - [[Notes/About me\|About me]]
