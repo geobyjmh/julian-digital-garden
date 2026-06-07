@@ -13,6 +13,9 @@ This is a  notes index
 - [[Notes/Apple\|Apple]]
 # B
 * [[Blogs\|Blogs]]
+
+# D
+- [[Notes/Diagrams-as-Code (DaC)\|Diagrams-as-Code (DaC)]]
 # N
 - [[Notes\|Notes]]
 - [[Now\|Now]]
@@ -23,4 +26,4 @@ This is a  notes index
 - [[Notes/Strategyzer\|Strategyzer]]
 - [[Start here\|Start here]]
 
-Last Updated: 03/06/26
+Last Updated: 07/06/26
