@@ -20,7 +20,17 @@ graph graphname {
 ```
 ![Pasted image 20260607094137.png](/img/user/Images/Pasted%20image%2020260607094137.png)
 
+## Example 2
+```
+digraph graphname {
+    a -> b -> c;
+    b -> d;
+}
+```
+![Pasted image 20260607094647.png](/img/user/Images/Pasted%20image%2020260607094647.png)
 # Reference
 Wikipedia (2026) _DOT (graph description language)_. Available at: [https://en.wikipedia.org/wiki/DOT_(graph_description_language)](https://en.wikipedia.org/wiki/DOT_\(graph_description_language\)) (Accessed: 7 June 2026).
+
+Webgraphviz (2026) _Webgraphviz: Graphviz in the browser_. Available at: [http://www.webgraphviz.com/](http://www.webgraphviz.com/) (Accessed: 7 June 2026).
 
 Last Updated: 07/06/26
