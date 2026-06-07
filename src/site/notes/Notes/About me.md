@@ -3,7 +3,7 @@
 ---
 
 - Link: [[Start here\|Start here]]
-- Link: [[Notes\|Notes]]
+- Link: [[Garden Root\|Garden Root]]
 
 Hi, I’m Julian.
 

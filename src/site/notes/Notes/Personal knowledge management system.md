@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/notes/personal-knowledge-management-system/","dg-note-properties":{}}
 ---
 
-- Link: [[Notes\|Notes]]
+- Link: [[Garden Root\|Garden Root]]
 
 A personal knowledge management system is a structured way of capturing, organising, linking, and revisiting information to support learning, thinking, and creative work over time.
 
 - [[Notes/Digital Garden\|Digital Garden]] 
 - [[Notes/Idea Pollination and Insight Harvesting\|Idea Pollination and Insight Harvesting]]
-- [[Notes/Map of Content\|Map of Content]]
+- [[Notes/Map of Content (MOC)\|Map of Content (MOC)]]
 - [[Notes/Memex - what is it\|Memex - what is it]]
 - [[Notes/Progressive summarisation\|Progressive summarisation]]
 - [[Notes/Writing as Thinking\|Writing as Thinking]]

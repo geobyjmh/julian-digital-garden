@@ -3,7 +3,7 @@
 ---
 
 
-- Link: [[Notes\|Notes]]
+- Link: [[Garden Root\|Garden Root]]
 
 **Diagrams-as-Code (DaC)**—also known as **Text-to-Diagram**—is a method of creating visual charts, technical architectures, and workflow maps by writing structured plain text instead of using manual drag-and-drop graphic interfaces.
 

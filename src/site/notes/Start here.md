@@ -5,7 +5,7 @@
 # Julian's Digital Garden
 
 - **[[Now\|Now]]**: What I’m currently focused on
-- **[[Notes\|Notes]]**: Evolving ideas and reflections
+- **[[Garden Root\|Garden Root]]**: Evolving ideas and reflections
 - **[[Projects\|Projects]]**: Experiments and practical work
 - **[[Blogs\|Blogs]]**: Longer-form and polished writing 
 

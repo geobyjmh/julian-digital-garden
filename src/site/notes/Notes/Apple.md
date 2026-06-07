@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/apple/","dg-note-properties":{}}
 ---
 
-- Link: [[Notes\|Notes]]
+- Link: [[Garden Root\|Garden Root]]
 
 This is a test note
 
