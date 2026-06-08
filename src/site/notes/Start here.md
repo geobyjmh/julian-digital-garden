@@ -21,7 +21,7 @@ It’s a place where your thoughts can stay messy while they grow, helping your 
 | [[Notes/About me\|About me]] | [LinkedIn](https://www.linkedin.com/in/julian-177594182/) | [IET EngX](https://engx.theiet.org/members/97e113289f02bfb1d4484c7353518e95) | [Blogger](https://julian20990987.blogspot.com/) |
 
 ![Pasted image 20260603205345.png](/img/user/Images/Pasted%20image%2020260603205345.png)
-Last Updated: 07/06/26
+Last Updated: 08/06/26
 
 
 

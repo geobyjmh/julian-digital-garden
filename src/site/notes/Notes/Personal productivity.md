@@ -9,9 +9,13 @@ Personal productivity is the practice of managing time, energy, and resources ef
 
 # Key Topics
 - Time management. 
-- Goal setting, prioritization
+- Goal setting, 
+- prioritization
 - Organization
 - Focus 
 - Tools and techniques.
+
+# Tools and techniques.
+- [[Notes/Gamification\|Gamification]]
 
 Last Updated: 07/06/26
