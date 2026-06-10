@@ -3,6 +3,7 @@
 ---
 
 - Link: [[Start here\|Start here]]
+- Link: [[Index\|Index]]
 
 # Blog sites
 [Julian - Blogger Space](https://julian20990987.blogspot.com/)
