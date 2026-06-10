@@ -20,8 +20,10 @@
 # 2023
 - [Julian: Mastering the Art of Deep Work: Insights from Cal Newport's "Deep Work”](https://julian20990987.blogspot.com/2023/11/mastering-art-of-deep-work-insights.html) (12/11/23)
 
+- [Julian: Book Summary - Range by David Epstein](https://julian20990987.blogspot.com/2023/08/book-summary-range-by-david-epstein.html)  (27/08/23)
 
-Last Updated: 07/06/26
+
+Last Updated: 10/06/26
 
 
 
