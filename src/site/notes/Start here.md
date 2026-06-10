@@ -6,7 +6,7 @@
 
 - **[[Goals\|Goals]]**: What I’m currently focused on
 - **[[Index\|Index]]**: Evolving ideas and reflections
-- **[[Projects (Garden Beds)\|Projects (Garden Beds)]]**: Experiments and practical work
+- **[[Projects\|Projects]]**: Experiments and practical work
 - **[[Blogs\|Blogs]]**: Longer-form and polished writing 
 
 # What is a digital garden?
