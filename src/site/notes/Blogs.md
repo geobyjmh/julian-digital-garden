@@ -15,6 +15,11 @@
 
 - [Julian: The Power of Resilience - Thriving in a Changing World](https://julian20990987.blogspot.com/2025/04/the-power-of-resilience-thriving-in.html) (19/04/25)
 
+- [Julian: How to Maximize Your Luck: 4 Essential Principles](https://julian20990987.blogspot.com/2025/03/how-to-maximize-your-luck-4-essential.html) (24/03/25)
+
+# 2023
+- [Julian: Mastering the Art of Deep Work: Insights from Cal Newport's "Deep Work”](https://julian20990987.blogspot.com/2023/11/mastering-art-of-deep-work-insights.html) (12/11/23)
+
 
 Last Updated: 07/06/26
 
