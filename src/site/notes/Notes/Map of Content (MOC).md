@@ -4,7 +4,7 @@
 
 - Link: [[Notes/Personal knowledge management system\|Personal knowledge management system]]
 - Link: [[Notes/Don't Organise Your Zettelkasten\|Don't Organise Your Zettelkasten]]
-- Link: [[Garden Root\|Garden Root]]
+- Link: [[Index\|Index]]
 
 A MOC (Map of Content) is a curated, structured note that acts as a hub for related ideas within your Zettelkasten or digital garden. Instead of relying on rigid folder structures, an MOC serves as a flexible, high-level overview of a topic, allowing you to easily navigate and connect key insights.  
   

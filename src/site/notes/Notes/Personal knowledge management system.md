@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/personal-knowledge-management-system/","dg-note-properties":{}}
 ---
 
-- Link: [[Garden Root\|Garden Root]]
+- Link: [[Index\|Index]]
 
 A personal knowledge management system is a structured way of capturing, organising, linking, and revisiting information to support learning, thinking, and creative work over time.
 

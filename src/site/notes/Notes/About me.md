@@ -3,7 +3,7 @@
 ---
 
 - Link: [[Start here\|Start here]]
-- Link: [[Garden Root\|Garden Root]]
+- Link: [[Index\|Index]]
 
 Hi, I’m Julian.
 

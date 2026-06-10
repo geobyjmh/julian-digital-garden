@@ -4,8 +4,8 @@
 
 # Julian's Digital Garden
 
-- **[[Greenhouse\|Greenhouse]]**: What I’m currently focused on
-- **[[Garden Root\|Garden Root]]**: Evolving ideas and reflections
+- **[[Goals\|Goals]]**: What I’m currently focused on
+- **[[Index\|Index]]**: Evolving ideas and reflections
 - **[[Projects (Garden Beds)\|Projects (Garden Beds)]]**: Experiments and practical work
 - **[[Blogs (Orchard)\|Blogs (Orchard)]]**: Longer-form and polished writing 
 
