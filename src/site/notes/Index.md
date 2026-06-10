@@ -10,7 +10,7 @@ Follow the pathways between ideas. This [[Notes/Map of Content (MOC)\|Map of Con
 - [[Notes/About me\|About me]]
 - [[Notes/Apple\|Apple]]
 # B
-* [[Blogs (Orchard)\|Blogs (Orchard)]]
+* [[Blogs\|Blogs]]
 # D
 - [[Notes/Diagrams-as-Code (DaC)\|Diagrams-as-Code (DaC)]]
 # G

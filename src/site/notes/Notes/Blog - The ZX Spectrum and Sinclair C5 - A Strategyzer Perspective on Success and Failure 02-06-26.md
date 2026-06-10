@@ -3,7 +3,7 @@
 ---
 
 
-- Link:  [[Blogs (Orchard)\|Blogs (Orchard)]]
+- Link:  [[Blogs\|Blogs]]
 - Link: [[Notes/Strategyzer\|Strategyzer]]
 
 # Blog Summary
