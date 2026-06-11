@@ -11,7 +11,7 @@ Instead of spending time dragging shapes, drawing lines, and manually aligning l
 
 ### Core Ecosystem Examples
 
-- **[[Mermaid.js\|Mermaid.js]]:** Optimized for web portability and markdown integration. It works out of the box inside modern documentation platforms like Obsidian, Notion, and GitHub without requiring any external software installation.
+- **[[Notes/Mermaid.js\|Mermaid.js]]:** Optimized for web portability and markdown integration. It works out of the box inside modern documentation platforms like Obsidian, Notion, and GitHub without requiring any external software installation.
     
 - **[[Notes/PlantUML\|PlantUML]]:** The long-standing enterprise standard for software engineering. It excels at generating strict structural Unified Modeling Language (UML) layouts, complex database schemas, and deep multi-step sequence flows.
     
