@@ -22,7 +22,22 @@ graph LR
     B --> D[Satisfying Resolutions]
 ```
 
-# Example 2
+## Example 2
+```
+classDiagram
+    class Character {
+        +String name
+        +int mana
+        +castSpell(spellName)
+        +rechargeMana()
+    }
+    class MagicSystem {
+        +List rules
+        +validateCast()
+    }
+    Character --> MagicSystem : bound_by
+```
+
 ```mermaid
 classDiagram
     class Character {
