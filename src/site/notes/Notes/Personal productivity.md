@@ -9,13 +9,16 @@ Personal productivity is the practice of managing time, energy, and resources ef
 
 # Key Topics
 - Time management. 
-- Goal setting, 
+- Goal setting,
 - prioritization
 - Organization
 - Focus 
 - Tools and techniques.
 
+# Goal Setting
+* [[Notes/The 4 Disciplines of Execution (4DX)\|The 4 Disciplines of Execution (4DX)]]]
 # Tools and techniques.
 - [[Notes/Gamification\|Gamification]]
+- [[Notes/The 4 Disciplines of Execution (4DX)\|The 4 Disciplines of Execution (4DX)]]
 
-Last Updated: 07/06/26
+Last Updated: 14/06/26
