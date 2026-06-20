@@ -3,6 +3,7 @@
 ---
 
 - Link: [[Notes/Strategyzer\|Strategyzer]]
+- Link: [[Notes/11. Testing Business Model Assumptions\|11. Testing Business Model Assumptions]]
 # Core Idea
 
 Mastering Business Testing is a structured methodology for reducing uncertainty in business ideas through experimentation, evidence gathering, and iterative learning.

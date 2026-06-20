@@ -4,6 +4,8 @@
 
 
 - Link [[Notes/Strategyzer\|Strategyzer]]
+- Link: [[Notes/02 Customer Segments\|02 Customer Segments]]
+- Link: [[Notes/03. Value Proposition Design\|03. Value Proposition Design]]
 
 ![Pasted image 20260604061020.png](/img/user/Images/Pasted%20image%2020260604061020.png)
 
@@ -32,5 +34,5 @@ Gain creators describe how the products or services produce benefits and positiv
 # Reference
 Strategyzer (2026) _Value Proposition Canvas – Download the Official Template_. Available at: [https://www.strategyzer.com/library/the-value-proposition-canvas](https://www.strategyzer.com/library/the-value-proposition-canvas) (Accessed: 4 June 2026).
 
-Last Updated: 04/06/26
+Last Updated: 20/06/26
 

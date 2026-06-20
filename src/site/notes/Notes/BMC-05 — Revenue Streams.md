@@ -20,7 +20,7 @@ Creating value is not enough; a sustainable business must also capture part of t
 
 **Links:**
 
-* [[Notes/Business Model Canvas\|Business Model Canvas]]
+* [[Notes/Business Model Canvas\|Notes/Business Model Canvas]]
 * [[Notes/BMC-06 — Key Resources\|BMC-06 — Key Resources]]
 
 # Reference

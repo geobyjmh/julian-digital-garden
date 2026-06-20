@@ -20,7 +20,7 @@ No business owns all necessary resources or performs every important activity in
 
 **Links:**
 
-- [[Notes/Business Model Canvas\|Business Model Canvas]]
+- [[Notes/Business Model Canvas\|Notes/Business Model Canvas]]
 - [[Notes/BMC-09 — Cost Structure\|BMC-09 — Cost Structure]]
 
 # Reference

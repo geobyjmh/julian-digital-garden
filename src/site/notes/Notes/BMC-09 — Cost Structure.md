@@ -20,7 +20,7 @@ Costs emerge naturally from resources, activities, and partnerships; understandi
 
 **Links:**
 
-- [[Notes/Business Model Canvas\|Business Model Canvas]]
+- [[Notes/Business Model Canvas\|Notes/Business Model Canvas]]
 - [[Notes/BMC-01 — Customer Segments\|BMC-01 — Customer Segments]]
 
 # Reference

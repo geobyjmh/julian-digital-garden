@@ -19,7 +19,7 @@ Customers do not buy products; they buy solutions to problems or ways to achieve
 
 **Links:**
 
-- [[Notes/Business Model Canvas\|Business Model Canvas]]
+- [[Notes/Business Model Canvas\|Notes/Business Model Canvas]]
 - [[Notes/BMC-03 — Channels\|BMC-03 — Channels]]
 
 # Reference

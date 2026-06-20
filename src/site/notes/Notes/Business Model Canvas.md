@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/notes/business-model-canvas/","dg-note-properties":{}}
 ---
 
-- Link [[Notes/Strategyzer\|Strategyzer]]
+- Link: [[Notes/Strategyzer\|Strategyzer]]
+- LInk: [[Notes/01 Business Model Canvas\|01 Business Model Canvas]]
 
 ![Pasted image 20260604062234.png](/img/user/Images/Pasted%20image%2020260604062234.png)----
 
@@ -39,5 +40,5 @@ Strategyzer (2011) _Business Model Canvas Explained_. Available at: [http://www.
 
 Strategyzer (2026) _Business Model Canvas – Download the Official Template_. Available at: [https://www.strategyzer.com/library/the-business-model-canvas](https://www.strategyzer.com/library/the-business-model-canvas) (Accessed: 4 June 2026).
 
-Last Updated: 04/06/26
+Last Updated: 20/06/26
 

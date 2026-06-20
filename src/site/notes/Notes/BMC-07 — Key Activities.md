@@ -20,7 +20,7 @@ Businesses succeed not because they do many things, but because they excel at a 
 
 **Links:**
 
-- [[Notes/Business Model Canvas\|Business Model Canvas]]
+- [[Notes/Business Model Canvas\|Notes/Business Model Canvas]]
 - [[Notes/BMC-08 — Key Partnerships\|BMC-08 — Key Partnerships]]
 
 # Reference
