@@ -27,4 +27,8 @@ Customers "hire" products and services to complete jobs in their lives.
 - **Next**: [[Notes/03. Value Proposition Design\|03. Value Proposition Design]]
 - **Previous**: [[Notes/01 Business Model Canvas\|01 Business Model Canvas]]
 
+# Reference
+
+Strategyzer (2026) _Mastering Business Models_. Available at: [https://www.strategyzer.com](https://www.strategyzer.com) (Accessed: 20 June 2026).
+
 Last Updated: 20/06/26
