@@ -29,5 +29,9 @@ Product innovation without business model innovation is often insufficient. Comp
 - [[Notes/13. Business Model Environment\|13. Business Model Environment]]
 - [[Notes/14. Continuous Innovation\|14. Continuous Innovation]]
 
+# Reference
+
+Strategyzer (2026) _Mastering Business Models_. Available at: [https://www.strategyzer.com](https://www.strategyzer.com) (Accessed: 20 June 2026).
+
 Last Updated: 20/06/26
 
