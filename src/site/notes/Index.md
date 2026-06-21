@@ -20,9 +20,10 @@ Follow the pathways between ideas. This [[Notes/Map of Content (MOC)\|Map of Con
 # P
 * [[Notes/Personal knowledge management system\|Personal knowledge management system]]
 * [[Notes/Personal productivity\|Personal productivity]]
+- [[Notes/Product Methodology\|Product Methodology]]
 * [[Projects\|Projects]]
 # S
 - [[Notes/Strategyzer\|Strategyzer]]
 - [[Start here\|Start here]]
 
-Last Updated: 10/06/26
+Last Updated: 21/06/26
