@@ -3,6 +3,7 @@
 ---
 
 - Link: [[Index\|Index]]
+- Link: [[Notes/Product Methodology\|Product Methodology]]
 
 Strategyzer is a globally recognized innovation and business strategy company that helps entrepreneurs, startups, and organizations design, test, and build successful business models. Through practical tools and evidence-based frameworks such as the Business Model Canvas and Value Proposition Canvas, Strategyzer teaches professionals how to validate ideas with real customers, reduce risk, and create products and services that truly meet market needs. Their training programs focus on innovation, customer insight, and data-driven decision-making to help businesses grow more effectively.
 
@@ -21,4 +22,4 @@ Strategyzer is a globally recognized innovation and business strategy company th
 - [[Notes/Mastering Business Models\|Mastering Business Models]]
 
 
-Last Updated: 20/06/26
+Last Updated: 21/06/26
