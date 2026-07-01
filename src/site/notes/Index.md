@@ -9,6 +9,7 @@ Follow the pathways between ideas. This [[Notes/Map of Content (MOC)\|Map of Con
 # A
 - [[Notes/About me\|About me]]
 - [[Notes/Apple\|Apple]]
+- [[Notes/Artificial Intelligence\|Artificial Intelligence]]
 # B
 * [[Blogs\|Blogs]]
 # D
